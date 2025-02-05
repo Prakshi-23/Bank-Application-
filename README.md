@@ -49,7 +49,7 @@ Ensure you have the following installed:
        education VARCHAR(20),
        date DATE,
        username VARCHAR(10),
-       password VARCHAR(255),
+       password VARCHAR(4),
        balance INT,
        target_balance VARCHAR(10)
    );
