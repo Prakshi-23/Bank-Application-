@@ -6,7 +6,7 @@ A desktop-based Banking Application built with Python and CustomTkinter, featuri
 
 ## Banking Application Overview
 
-![Banking App Flowchart](images/DALL·E 2025-02-20 18.51.43 - A refined and professional flowchart illustrating the main tools and their usage in a bank application project. The flowchart includes___1. __Python .webp)
+![Banking App Flowchart](images/DALL%E2%80%A2E%202025-02-20%2018.51.43%20-%20A%20refined%20and%20professional%20flowchart%20illustrating%20the%20main%20tools%20and%20their%20usage%20in%20a%20bank%20application%20project.%20The%20flowchart%20includes___1.%20__Python%20.webp)
 
 
 ## Features
