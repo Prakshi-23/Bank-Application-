@@ -142,12 +142,7 @@ After packaging, navigate to the `dist` folder:
 ```sh
 dist\bank_app_.exe
 ```
-
 ---
-
-🚀 Happy coding!
-
-
 
 #####
 
@@ -157,3 +152,4 @@ auto-py-to-exe will open a gui window which asks for file location and select wi
 
 pyinstaller will create a build folder and your exe application will be in dist folder.
 
+🚀 Happy coding!
