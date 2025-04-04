@@ -4,6 +4,11 @@
 
 A desktop-based Banking Application built with Python and CustomTkinter, featuring account management, transactions, and customer verification.
 
+## Banking Application Overview
+
+![Banking App Flowchart](images/DALL·E 2025-02-20 18.51.43 - A refined and professional flowchart illustrating the main tools and their usage in a bank application project. The flowchart includes___1. __Python .webp)
+
+
 ## Features
 
 - User Registration (Sign Up)
